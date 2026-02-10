@@ -1,3 +1,6 @@
+# NEET AI Platform
+
+An education platform for NEET aspirants with AI tools, quizzes, notes, and video lectures.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
